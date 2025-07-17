@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Maternal Mortality.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Physiological changes in pregnancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maternal Mortality"
+              "title": "Physiological changes in pregnancy"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7489b76983ba0733",
@@ -194,27 +195,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "a04b86179b8b0798",
+  "active": "1c07bfffae3963e2",
   "lastOpenFiles": [
-    "INTERNAL MEDICINE",
-    "OBSTETRICS AND GYNAECOLOGY/Female Infertility.md",
-    "OBSTETRICS AND GYNAECOLOGY/Pelvis Shapes.png",
-    "OBSTETRICS AND GYNAECOLOGY/Pelvis Diameters.png",
     "OBSTETRICS AND GYNAECOLOGY/Maternal Pelvis.md",
-    "PHYSIOLOGY/Respiratory Parameters.md",
-    "OBSTETRICS AND GYNAECOLOGY/Physiological changes in pregnancy.md",
-    "PHYSIOLOGY",
-    "GASTRO INTESTINAL SYSTEM/Hirschprung's  Disease.md",
-    "OBSTETRICS AND GYNAECOLOGY/Labor.md",
-    "OBSTETRICS AND GYNAECOLOGY/Ultrasound.md",
     "OBSTETRICS AND GYNAECOLOGY/Maternal Mortality.md",
+    "OBSTETRICS AND GYNAECOLOGY/Physiological changes in pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Ultrasound.md",
+    "OBSTETRICS AND GYNAECOLOGY/Female Infertility.md",
     "STATISTICS/Frequency Distribution.md",
+    "OBSTETRICS AND GYNAECOLOGY/Pelvis Shapes.png",
+    "OBSTETRICS AND GYNAECOLOGY/Labor.md",
+    "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Symptoms/Vomit.md",
+    "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Symptoms",
+    "INTERNAL MEDICINE",
+    "OBSTETRICS AND GYNAECOLOGY/Pelvis Diameters.png",
+    "PHYSIOLOGY/Respiratory Parameters.md",
+    "PHYSIOLOGY",
+    "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Hirschprung's  Disease.md",
     "OBSTETRICS AND GYNAECOLOGY",
     "STATISTICS",
-    "Vomit.md",
-    "GASTRO INTESTINAL SYSTEM"
+    "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM"
   ]
 }

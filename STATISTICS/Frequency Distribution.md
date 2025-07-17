@@ -73,3 +73,5 @@ This method organizes your data into meaningful groups, making it easier to visu
 - Cuemath explanation on frequency distribution tables [Cuemath](https://www.cuemath.com/data/frequency-distribution-table/)
     
 - Scribbr guide on grouped frequency tables [Scribbr](https://www.scribbr.com/statistics/frequency-distributions/)
+
+********
