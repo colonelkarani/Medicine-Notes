@@ -110,7 +110,7 @@ Transverse --> 11cm
 
 ###### Gynecoid
 - shape -> transversely oval
-- transverse diameter is more than ap diameter
+- TD>AP
 - pelvic wall broad and parallel
 ###### Android
 - Shape -> heart
