@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "3dd5b9d21c6571f0",
+            "id": "252674827a994373",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,49 @@
             }
           },
           {
-            "id": "654780419891798e",
+            "id": "527b4b664e2683d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Placenta Abnormalities/Placenta Abruptio.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Labor/Prolonged labor,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Placenta Abruptio"
+              "title": "Prolonged labor,"
             }
           },
           {
-            "id": "94a434ff8e4f8d2b",
+            "id": "b41e39cb264739e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Maternal Pelvis.md",
+                "file": "Obstetric Fistula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maternal Pelvis"
+              "title": "Obstetric Fistula"
             }
           },
           {
-            "id": "252674827a994373",
+            "id": "ca4cdc393a4a162f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Complications of pregnancy/Hyperemesis Gravidarum.md",
+                "file": "Partograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyperemesis Gravidarum"
+              "title": "Partograph"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7489b76983ba0733",
@@ -226,9 +227,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "94a434ff8e4f8d2b",
+  "active": "ca4cdc393a4a162f",
   "lastOpenFiles": [
-    "OBSTETRICS AND GYNAECOLOGY/Obstructed Labor.md",
+    "Partograph.md",
+    "OBSTETRICS AND GYNAECOLOGY/Labor/Prolonged labor,.md",
+    "OBSTETRICS AND GYNAECOLOGY/Labor/Obstructed Labor.md",
+    "Answers.md",
+    "Obstetric Fistula.md",
+    "OBSTETRICS AND GYNAECOLOGY/Labor/Stages of labor.md",
+    "OBSTETRICS AND GYNAECOLOGY/Labor",
+    "OBSTETRICS AND GYNAECOLOGY/Complications of pregnancy/Hyperemesis Gravidarum.md",
+    "OBSTETRICS AND GYNAECOLOGY/Maternal Mortality.md",
+    "OBSTETRICS AND GYNAECOLOGY/Labor/Labor.md",
+    "OBSTETRICS AND GYNAECOLOGY/Female Infertility.md",
+    "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Uterus.md",
+    "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Pasted image 20250721144413.png",
+    "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Maternal Pelvis.md",
     "OBSTETRICS AND GYNAECOLOGY/Placenta Abnormalities/Placenta Abruptio.md",
     "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Pelvis Diameters.png",
     "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology",
@@ -237,25 +251,18 @@
     "PHARMACOLOGY/Respiratory Drugs",
     "OBSTETRICS AND GYNAECOLOGY/Complications of pregnancy/Cervical Insufficiency.md",
     "PHARMACOLOGY",
-    "OBSTETRICS AND GYNAECOLOGY/Complications of pregnancy/Hyperemesis Gravidarum.md",
     "OBSTETRICS AND GYNAECOLOGY/Complications of pregnancy",
-    "OBSTETRICS AND GYNAECOLOGY/Female Infertility.md",
     "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Physiological changes in pregnancy.md",
-    "Answers.md",
     "OBSTETRICS AND GYNAECOLOGY/Gravidity and Parity.md",
-    "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Maternal Pelvis.md",
-    "OBSTETRICS AND GYNAECOLOGY/Maternal Mortality.md",
     "OBSTETRICS AND GYNAECOLOGY/Ultrasound.md",
     "STATISTICS/Frequency Distribution.md",
     "OBSTETRICS AND GYNAECOLOGY/Anatomy and Physiology/Pelvis Shapes.png",
-    "OBSTETRICS AND GYNAECOLOGY/Labor.md",
     "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Symptoms/Vomit.md",
     "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Symptoms",
     "INTERNAL MEDICINE",
     "PHYSIOLOGY/Respiratory Parameters.md",
     "PHYSIOLOGY",
     "INTERNAL MEDICINE/GASTRO INTESTINAL SYSTEM/Hirschprung's  Disease.md",
-    "OBSTETRICS AND GYNAECOLOGY",
-    "STATISTICS"
+    "OBSTETRICS AND GYNAECOLOGY"
   ]
 }
