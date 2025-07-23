@@ -11,17 +11,17 @@ The **urogenital system** comprises the urinary and genital organs, which develo
 - **Intermediate Mesoderm**: Source of most urogenital tissues.
     
 - **Nephrogenic Cord**: Runs longitudinally along the embryo, giving rise to both urinary and genital organs[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system).
-    
+![mesoderm-vector-illustration-labeled-medical-diagram-embryo-structure-neural-tube-ectoderm-notochord-endoderm-paraxial-127237955.jpg (1600×1565)](https://thumbs.dreamstime.com/z/mesoderm-vector-illustration-labeled-medical-diagram-embryo-structure-neural-tube-ectoderm-notochord-endoderm-paraxial-127237955.jpg)
 
 ## 2. Kidney Development
 
 Three sets of kidneys develop in sequence:
 
-|Stage|Time of Appearance|Fate/Outcome|
-|---|---|---|
-|**Pronephros**|~4th week|Non-functional, rapidly regresses4[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)|
-|**Mesonephros**|Late 4th week|Temporarily functional, later degenerates, but ducts persist as male genital structures[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[5](https://library.fiveable.me/developmental-biology/unit-6/urogenital-system-development/study-guide/0bJ962vGTbJypOPy)|
-|**Metanephros**|5th week onward|Becomes the permanent, functional kidney[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)|
+| Stage           | Time of Appearance | Fate/Outcome                                                                                                                                                                                                                                                                                                                                                                |
+| --------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pronephros**  | ~4th week          | Non-functional, rapidly regresses4[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)                                                                                                                                                                                                                                                          |
+| **Mesonephros** | Late 4th week      | Temporarily functional, later degenerates, but ducts persist as male genital structures[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[5](https://library.fiveable.me/developmental-biology/unit-6/urogenital-system-development/study-guide/0bJ962vGTbJypOPy) |
+| **Metanephros** | 5th week onward    | Becomes the permanent, functional kidney[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)                                                                                                                                                                        |
 ![69b53fbf6280b4d37d4605753bce30da.png (4059×3000)](https://i.pinimg.com/originals/69/b5/3f/69b53fbf6280b4d37d4605753bce30da.png)
 - **Metanephric blastema** and **ureteric bud** interact to form nephrons, collecting ducts, ureters, renal pelvis, and calyces[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[5](https://library.fiveable.me/developmental-biology/unit-6/urogenital-system-development/study-guide/0bJ962vGTbJypOPy).
 	![genes-12-01281-g001.png (3295×2056)](https://www.mdpi.com/genes/genes-12-01281/article_deploy/html/images/genes-12-01281-g001.png)
@@ -56,11 +56,11 @@ Key aspects of their formation include:
     - In males, the pelvic part of the urogenital sinus becomes the prostatic and membranous urethra; the phallic part elongates with the genital tubercle to form the penile urethra.
         
     - In females, the pelvic portion becomes the urethra opening into the vestibule of the vagina[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[6](https://www.wikilectures.eu/w/Embryonic_development_of_the_Bladder_and_Urethra).
-        
+	
 - The **urogenital septum**, a mesodermal structure, divides the cloaca into the urogenital sinus (anteriorly) and anorectal canal (posteriorly), separating the urinary and digestive tracts early in development[4](https://www.ncbi.nlm.nih.gov/books/NBK547747/)[6](https://www.wikilectures.eu/w/Embryonic_development_of_the_Bladder_and_Urethra).
     
 - The **ureters develop from the ureteric buds**, which sprout from the mesonephric ducts and grow into the metanephric mesenchyme. Initially, ureters drain into the mesonephric ducts, but later they migrate to open separately into the bladder trigone—the process driven by epithelial remodeling and apoptosis to establish their permanent positions[2](https://en.wikipedia.org/wiki/Development_of_the_urinary_system)[5](https://urology.ucsf.edu/sites/default/files/uploaded-files/attachments/8_development_of_the_bladder_1-s2.0-s0301468118301038-main_copy.pdf).
-    
+![developmentofurethra201917oct-200908042633-thumbnail.jpg (640×360)](https://cdn.slidesharecdn.com/ss_thumbnails/developmentofurethra201917oct-200908042633-thumbnail.jpg?width=640&height=640&fit=bounds)
 
 In summary, the **bladder arises as the upper part of the urogenital sinus with contributions from incorporated mesonephric ducts (trigone), and the urethra forms from the lower urogenital sinus**, with spatial differences between sexes. This development depends on molecular signaling and structural remodeling to create a functional urinary bladder with an attached urethra and proper ureteral connections[1](https://www.kenhub.com/en/library/anatomy/development-of-the-urinary-system)[5](https://urology.ucsf.edu/sites/default/files/uploaded-files/attachments/8_development_of_the_bladder_1-s2.0-s0301468118301038-main_copy.pdf)[6](https://www.wikilectures.eu/w/Embryonic_development_of_the_Bladder_and_Urethra).
 
@@ -75,14 +75,14 @@ In summary, the **bladder arises as the upper part of the urogenital sinus with 
 
 ## Ductal Development
 
-| Structure                             | Males                                        | Females                                                                                                                                                                                                                                                         |
-| ------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mesonephric (Wolffian) Ducts**      | Vas deferens, epididymis, seminal vesicles,  | Degenerate[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[3](https://clinicalgate.com/development-of-the-urogenital-system/)                                                                                                       |
-| **Paramesonephric (Müllerian) Ducts** | Degenerate                                   | Uterus, fallopian tubes, upper vagina[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[3](https://clinicalgate.com/development-of-the-urogenital-system/)[6](https://teachmeanatomy.info/the-basics/embryology/reproductive-system/) |
+| Structure                             | Males                                       | Females                                                                                                                                                                                                                                                         |
+| ------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mesonephric (Wolffian) Ducts**      | Vas deferens, epididymis, seminal vesicles, | Degenerate[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[3](https://clinicalgate.com/development-of-the-urogenital-system/)                                                                                                       |
+| **Paramesonephric (Müllerian) Ducts** | Degenerate                                  | Uterus, fallopian tubes, upper vagina[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[3](https://clinicalgate.com/development-of-the-urogenital-system/)[6](https://teachmeanatomy.info/the-basics/embryology/reproductive-system/) |
 ![Mesonephric ducts](https://clinicalgate.com/wp-content/uploads/2015/03/B978044306684950086X_gr13.jpg)
 ## External Genitalia
 
-Initially indistinguishable; differentiation depends on hormonal environment (testosterone/estrogen and dihydrotestosterone for males)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[6](https://teachmeanatomy.info/the-basics/embryology/reproductive-system/)
+Initially indistinguishable **until week 6**; differentiation depends on hormonal environment (testosterone/estrogen and dihydrotestosterone for males)[2](https://www.lecturio.com/concepts/development-of-the-urogenital-system/)[6](https://teachmeanatomy.info/the-basics/embryology/reproductive-system/)
 
 ## Common Urogenital Anomalies
 
@@ -128,26 +128,27 @@ Abnormalities can affect kidney structure, ureters, bladder, or genital organs. 
 
 ![AFS-Classification-of-Mullerian-duct-anomalies.jpg (850×888)](https://www.researchgate.net/profile/Ignacio-Schoijet/publication/331473614/figure/fig2/AS:890743992369155@1589381325615/AFS-Classification-of-Mullerian-duct-anomalies.jpg)
 
-|**Class/Category**|**Description**|**Key Features**|**Approximate Frequency**|**Comments**|
-|---|---|---|---|---|
-|**AFS Class I**|Uterine agenesis/hypoplasia|Complete or partial absence of uterus; may involve vagina, cervix, fundus, or tubes|Rare|Includes Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome|
-|**AFS Class II**|Unicornuate uterus|One developed uterine horn; may have a rudimentary horn (communicating or non-communicating)|~6-25%|Asymmetric uterus; may affect fertility|
-|**AFS Class III**|Uterus didelphys|Complete failure of fusion leading to two distinct uteri and two cervices|~5-11%|Two separate endometrial cavities and external fundal cleft|
-|**AFS Class IV**|Bicornuate uterus|Partial fusion failure; two horns either fully or partially divided|~10-39%|External fundal cleft present; bicollis (two cervices) or unicollis|
-|**AFS Class V**|Septate uterus|Failure of resorption of septum; single uterus with divided endometrial cavity|~34-55%|Most common anomaly; normal external fundal contour|
-|**AFS Class VI**|Arcuate uterus|Mild concavity of uterine fundus; incomplete resorption of septum|~7%|Considered a normal variant or mild anomaly|
-|**AFS Class VII**|DES-related anomaly|T-shaped hypoplastic uterus due to in utero diethylstilbestrol exposure|Rare|Associated with infertility and pregnancy loss|
-|**ESHRE/ESGE U0**|Normal uterus|Normal shape and contour|—|Added to include anomalies of cervix/vagina with normal uterus|
-|**ESHRE/ESGE U1**|Dysmorphic uterus|Abnormal uterine cavity shape with normal external contour|Includes T-shaped (U1a), infantilis (U1b), and others (U1c)|Minor deformities; may affect fertility|
-|**ESHRE/ESGE U2**|Septate uterus|Normal external contour with internal septum (>50% uterine wall thickness)|—|Differentiates septate from bicorporeal|
-|**ESHRE/ESGE U3**|Bicorporeal uterus|Abnormal external contour with external cleft (>1 cm) and two uterine horns|—|Fusion anomaly vs. resorption anomaly distinction|
-|**ESHRE/ESGE U4**|Hemi-uterus|Unilateral formation defect, one uterine horn present|—|Corresponds to unicornuate uterus|
-|**ESHRE/ESGE U5**|Aplastic uterus|Bilateral agenesis/hypoplasia of uterine corpus|—|Corresponds to uterine agenesis|
-|**ESHRE/ESGE U6**|Unclassified or complex anomalies|Anomalies not fitting other categories|—|Includes unusual variants|
+| **Class/Category** | **Description**                   | **Key Features**                                                                             | **Approximate Frequency**                                   | **Comments**                                                        |
+| ------------------ | --------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| **AFS Class I**    | Uterine agenesis/hypoplasia       | Complete or partial absence of uterus; may involve vagina, cervix, fundus, or tubes          | Rare                                                        | Includes Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome             |
+| **AFS Class II**   | Unicornuate uterus                | One developed uterine horn; may have a rudimentary horn (communicating or non-communicating) | ~6-25%                                                      | Asymmetric uterus; may affect fertility                             |
+| **AFS Class III**  | Uterus didelphys                  | Complete failure of fusion leading to two distinct uteri and two cervices                    | ~5-11%                                                      | Two separate endometrial cavities and external fundal cleft         |
+| **AFS Class IV**   | Bicornuate uterus                 | Partial **fusion** failure; two horns either fully or partially divided                      | ~10-39%                                                     | External fundal cleft present; bicollis (two cervices) or unicollis |
+| **AFS Class V**    | Septate uterus                    | Failure of **resorption** of septum; single uterus with divided endometrial cavity           | ~34-55%                                                     | Most common anomaly; normal external fundal contour                 |
+| **AFS Class VI**   | Arcuate uterus                    | Mild concavity of uterine fundus; incomplete resorption of septum                            | ~7%                                                         | Considered a normal variant or mild anomaly                         |
+| **AFS Class VII**  | DES-related anomaly               | T-shaped hypoplastic uterus due to in utero diethylstilbestrol exposure                      | Rare                                                        | Associated with infertility and pregnancy loss                      |
+| **ESHRE/ESGE U0**  | Normal uterus                     | Normal shape and contour                                                                     | —                                                           | Added to include anomalies of cervix/vagina with normal uterus      |
+| **ESHRE/ESGE U1**  | Dysmorphic uterus                 | Abnormal uterine cavity shape with normal external contour                                   | Includes T-shaped (U1a), infantilis (U1b), and others (U1c) | Minor deformities; may affect fertility                             |
+| **ESHRE/ESGE U2**  | Septate uterus                    | Normal external contour with internal septum (>50% uterine wall thickness)                   | —                                                           | Differentiates septate from bicorporeal                             |
+| **ESHRE/ESGE U3**  | Bicorporeal uterus                | Abnormal external contour with external cleft (>1 cm) and two uterine horns                  | —                                                           | Fusion anomaly vs. resorption anomaly distinction                   |
+| **ESHRE/ESGE U4**  | Hemi-uterus                       | Unilateral formation defect, one uterine horn present                                        | —                                                           | Corresponds to unicornuate uterus                                   |
+| **ESHRE/ESGE U5**  | Aplastic uterus                   | Bilateral agenesis/hypoplasia of uterine corpus                                              | —                                                           | Corresponds to uterine agenesis                                     |
+| **ESHRE/ESGE U6**  | Unclassified or complex anomalies | Anomalies not fitting other categories                                                       | —                                                           | Includes unusual variants                                           |
 
 ## Additional Notes:
 - **Androgen Insensitivity Syndrome (AIS)**: Genetically male individual (46,XY) develops female external genitalia due to lack of androgen receptor response[10](https://www.uchicagomedicine.org/conditions-services/obgyn/urogynecology/congenital-anomalies-urinary-reproductive).
-    
+- Gartners Ducts
+![_.png (1920×1416)](https://d16qt3wv6xm098.cloudfront.net/skBmjnUwRw_nMNj0z4yBJyMYQT2o5KSj/_.png)
 - **Congenital adrenal hyperplasia (CAH)**: Excess androgen production causes virilization in genetic females[10](https://www.uchicagomedicine.org/conditions-services/obgyn/urogynecology/congenital-anomalies-urinary-reproductive).
 ![CAH+by+Dr+Cilein+Kearns+Artibiotics+v17b+72dpi+abx.jpg (1600×1050)](https://images.squarespace-cdn.com/content/v1/593adddf725e25a4294e8028/1625174677083-A1RCIZL3P982NU9GA2PA/CAH+by+Dr+Cilein+Kearns+Artibiotics+v17b+72dpi+abx.jpg)
 ## Causes and Risk Factors
@@ -184,3 +185,12 @@ Abnormalities can affect kidney structure, ureters, bladder, or genital organs. 
 - Genetic and environmental risk factors both play significant roles.
     
 - Early detection is crucial for optimal outcomes.
+
+
+
+
+
+1. A
+2.  C
+3. H
+4. F

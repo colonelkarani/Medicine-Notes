@@ -146,3 +146,6 @@ If obstetric conjugate is less than 10 cm
 - Previously failed trial of labor
 - Severe PIH, DM, Cardiac Disease
 - Cephalopelvic Disproportion
+
+### Fetal head diameters
+![a25e4b12bebf37eec5376a751f472324--midi-skulls.jpg (500×406)](https://i.pinimg.com/736x/a2/5e/4b/a25e4b12bebf37eec5376a751f472324--midi-skulls.jpg)

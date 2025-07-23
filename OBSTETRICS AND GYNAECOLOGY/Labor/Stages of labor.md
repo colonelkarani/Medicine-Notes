@@ -65,3 +65,12 @@ If you want, I can provide more details on any specific stage or about signs and
 7. [https://www.bidmc.org/centers-and-departments/obstetrics-and-gynecology/programs-and-services/pregnancy/labor-and-delivery/stages-of-labor](https://www.bidmc.org/centers-and-departments/obstetrics-and-gynecology/programs-and-services/pregnancy/labor-and-delivery/stages-of-labor)
 8. [https://my.clevelandclinic.org/health/body/22640-stages-of-labor](https://my.clevelandclinic.org/health/body/22640-stages-of-labor)
 9. [https://cnywomenshealthcare.com/understanding-the-different-stages-of-labor-and-delivery/](https://cnywomenshealthcare.com/understanding-the-different-stages-of-labor-and-delivery/)
+
+- every - engagement
+- damn- descent
+- fool- flexion
+- in- internal rotation
+- egypt- extension 
+- eats - external rotation 
+- raw -restitution
+- eggs -expulsion

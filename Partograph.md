@@ -1,5 +1,5 @@
 A **partograph** (or partogram) is a _composite graphical record_ used to monitor key maternal and fetal parameters during labor over time, helping healthcare providers detect abnormalities early and intervene to prevent complications.
-
+![1686053724 (768×1024)](https://imgv2-2-f.scribdassets.com/img/document/604276770/original/a872ef09d1/1686053724?v=1)
 ## What is a Partograph?
 
 - It is a **single-sheet chart** that displays various observations recorded at regular intervals during labor plotted against time.
@@ -11,19 +11,19 @@ A **partograph** (or partogram) is a _composite graphical record_ used to monito
 
 ## Key Components and What They Measure
 
-|Component|What is Measured|Purpose/Significance|
-|---|---|---|
-|**Patient Identification**|Name, gravida/para, medical history|To track individual patient records|
-|**Time**|Hours from labor onset or admission|X-axis for plotting labor progress|
-|**Cervical Dilation**|cm dilated (0-10 cm)|Monitors progress of labor; should progress ~1 cm/hr|
-|**Fetal Head Descent**|Station in pelvis (e.g., -5 to +5 cm)|Indicates fetal progress through birth canal|
-|**Uterine Contractions**|Frequency, duration, intensity|Assesses labor effectiveness|
-|**Fetal Heart Rate**|Beats per minute (BPM)|Assesses fetal wellbeing; normal 110–160 bpm|
-|**Amniotic Fluid**|Color (clear, meconium-stained, bloody)|Detects fetal distress or infection|
-|**Maternal Vital Signs**|Pulse, blood pressure, temperature|Monitors mother’s condition and detects complications|
-|**Urine Output & Analysis**|Volume, protein, ketones, glucose|Assesses hydration, metabolic state, and infection risks|
-|**Medications/Fluids**|Oxytocin dosage, antibiotics, fluids|Records interventions|
-|**Alert and Action Lines**|Graph lines indicating normal progress|Guide clinical decisions when labor deviates from normal[2](https://medicalguidelines.msf.org/en/viewport/ONC/english/5-2-monitoring-labour-and-delivery-51416957.html)[5](https://uomus.edu.iq/img/lectures21/MUCLecture_2025_13123188.pdf)|
+| Component                   | What is Measured                        | Purpose/Significance                                                                                                                                                                                                                         |
+| --------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Patient Identification**  | Name, gravida/para, medical history     | To track individual patient records                                                                                                                                                                                                          |
+| **Time**                    | Hours from labor onset or admission     | X-axis for plotting labor progress                                                                                                                                                                                                           |
+| **Cervical Dilation**       | cm dilated (0-10 cm)                    | Monitors progress of labor; should progress ~1 cm/hr                                                                                                                                                                                         |
+| **Fetal Head Descent**      | Station in pelvis (e.g., -5 to +5 cm)   | Indicates fetal progress through birth canal                                                                                                                                                                                                 |
+| **Uterine Contractions**    | Frequency, duration, intensity          | Assesses labor effectiveness                                                                                                                                                                                                                 |
+| **Fetal Heart Rate**        | Beats per minute (BPM)                  | Assesses fetal wellbeing; normal 110–160 bpm                                                                                                                                                                                                 |
+| **Amniotic Fluid**          | Color (clear, meconium-stained, bloody) | Detects fetal distress or infection                                                                                                                                                                                                          |
+| **Maternal Vital Signs**    | Pulse, blood pressure, temperature      | Monitors mother’s condition and detects complications                                                                                                                                                                                        |
+| **Urine Output & Analysis** | Volume, protein, ketones, glucose       | Assesses hydration, metabolic state, and infection risks                                                                                                                                                                                     |
+| **Medications/Fluids**      | Oxytocin dosage, antibiotics, fluids    | Records interventions                                                                                                                                                                                                                        |
+| **Alert and Action Lines**  | Graph lines indicating normal progress  | Guide clinical decisions when labor deviates from normal[2](https://medicalguidelines.msf.org/en/viewport/ONC/english/5-2-monitoring-labour-and-delivery-51416957.html)[5](https://uomus.edu.iq/img/lectures21/MUCLecture_2025_13123188.pdf) |
 
 ## How to Use the Partograph
 
