@@ -416,3 +416,7 @@ If you need, I can also help prepare flashcards or detailed clinical notes!
 11. 
 
 
+HCG maintains corpus luteum
+Eostrogen progesterone- uterine growth
+human placental lactogen - diabetic effect
+thyorid binding globulin - increased t3(hyperthyroidism)

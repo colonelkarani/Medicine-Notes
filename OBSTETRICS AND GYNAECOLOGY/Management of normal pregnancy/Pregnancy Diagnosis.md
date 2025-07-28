@@ -24,13 +24,16 @@
 	    - perception of fetal movements (quickening), 
 	    - skin changes (e.g., linea nigra,chloasma gravidarum, striae gravidarum, telangectasia),
 	    - fetal heart sounds[1](https://medicalguidelines.msf.org/en/viewport/ONC/english/1-1-diagnosing-pregnancy-51415897.html)[2](https://www.betterhealth.vic.gov.au/health/servicesandsupport/pregnancy-tests-and-scans).
+	    - Backache
         
 - **Physical Examination:**
     
     - Changes in the cervix, uterus, and vaginal mucosa can be noted during a pelvic exam.
         
     - Progressive enlargement of the uterus from 7-8 weeks post-last menstrual period[1](https://medicalguidelines.msf.org/en/viewport/ONC/english/1-1-diagnosing-pregnancy-51415897.html).
-    - Palpation of fetal movements        
+    - Palpation of fetal movements
+- DIfferential DIagnosos
+	- amennorhea
 
 ## Laboratory Tests
 
@@ -86,6 +89,7 @@
 - **First Trimester:**
     
     - Measurement of the crown-rump length (CRL) between 7 and 13 weeks is highly accurate (±6 days).
+- ![Crown-Rump-Length-Chart-And-Measurement-1.jpg.webp (1200×1350)](https://cdn2.momjunction.com/wp-content/uploads/2019/03/Crown-Rump-Length-Chart-And-Measurement-1.jpg.webp)
         
 - **Second Trimester:**
     
@@ -148,14 +152,14 @@
 
 ## Biophysical Tests
 
-|Test|Principle|Indications|
-|---|---|---|
-|**Fetal Movement Count**|Maternal perception; decreased activity may signal fetal compromise|All pregnancies, especially high risk|
-|**Non-Stress Test (NST)**|Monitors fetal heart rate in relation to movement|Diabetes, hypertension, post-term, IUGR[10](https://www.obgynofatlanta.com/test-of-fetal-well-being)[11](https://www.acog.org/womens-health/faqs/special-tests-for-monitoring-fetal-well-being)|
-|**Contraction Stress Test**|Assesses fetal heart rate response to uterine contractions|Suspected placental insufficiency|
-|**Biophysical Profile (BPP)**|Combines NST and ultrasound observation of breathing, movement, tone, amniotic fluid volume|High-risk pregnancies[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC3684248/)|
-|**Modified BPP**|Combines NST and amniotic fluid assessment|High-risk pregnancies|
-|**Doppler Ultrasound**|Assesses blood flow in umbilical artery and fetal vessels|Growth-restricted fetuses, hypertension[12](https://www.slideshare.net/slideshow/antenatal-assessment-of-fetal-wellbeing-250931288/250931288)[11](https://www.acog.org/womens-health/faqs/special-tests-for-monitoring-fetal-well-being)|
+| Test                          | Principle                                                                                   | Indications                                                                                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fetal Movement Count**      | Maternal perception; decreased activity may signal fetal compromise                         | All pregnancies, especially high risk                                                                                                                                                                                                    |
+| **Non-Stress Test (NST)**     | Monitors fetal heart rate in relation to movement. Supposed to be reactive                  | Diabetes, hypertension, post-term, IUGR[10](https://www.obgynofatlanta.com/test-of-fetal-well-being)[11](https://www.acog.org/womens-health/faqs/special-tests-for-monitoring-fetal-well-being)                                          |
+| **Contraction Stress Test**   | Assesses fetal heart rate response to uterine contractions                                  | Suspected placental insufficiency                                                                                                                                                                                                        |
+| **Biophysical Profile (BPP)** | Combines NST and ultrasound observation of breathing, movement, tone, amniotic fluid volume | High-risk pregnancies[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC3684248/)                                                                                                                                                              |
+| **Modified BPP**              | Combines NST and amniotic fluid assessment                                                  | High-risk pregnancies                                                                                                                                                                                                                    |
+| **Doppler Ultrasound**        | Assesses blood flow in umbilical artery and fetal vessels                                   | Growth-restricted fetuses, hypertension[12](https://www.slideshare.net/slideshow/antenatal-assessment-of-fetal-wellbeing-250931288/250931288)[11](https://www.acog.org/womens-health/faqs/special-tests-for-monitoring-fetal-well-being) |
 
 ## Biophysical Profile (BPP) Scoring
 
@@ -170,7 +174,7 @@
     - Amniotic fluid volume
         
     - Reactivity of fetal heart rate (NST)[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC3684248/)
-        
+
 - Total score out of 10, with higher scores indicating better fetal wellbeing.
 - Measured using ultrasound
     
@@ -230,3 +234,13 @@ Comprehensive care in pregnancy involves timely and appropriate application of d
 18. [https://www.ncbi.nlm.nih.gov/books/NBK11382/](https://www.ncbi.nlm.nih.gov/books/NBK11382/)
 19. [https://www.ncbi.nlm.nih.gov/books/NBK526000/](https://www.ncbi.nlm.nih.gov/books/NBK526000/)
 20. [https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.21921](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.21921)
+
+
+
+24 july 
+31 april 2026
+1st  may
+
+
+24 july 
+31 march 2026

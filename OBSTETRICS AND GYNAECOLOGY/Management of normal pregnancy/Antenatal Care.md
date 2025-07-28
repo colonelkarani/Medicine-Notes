@@ -1,0 +1,2 @@
+- Antenatal care is the health care of a pregnant woman from conception to time of labor
+- Safe motherhood , ensuring all women have access to info and care they need to go safely through pregnancy, childbirth and puerperium

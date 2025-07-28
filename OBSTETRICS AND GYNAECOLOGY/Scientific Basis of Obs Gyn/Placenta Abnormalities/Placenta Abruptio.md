@@ -8,8 +8,12 @@
 
 ![EM@3AM: Placental Abruption - emDocs](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/fb36af99-ed3c-539a-b1ec-a061fa3e00cb/cbe02386-e076-5ff9-bf2a-abbb62800f76.jpg)
 
-**Placental abruption** (also called abruptio placentae) is a serious obstetric emergency characterized by **premature separation of the placenta from the uterine wall after 20 weeks of gestation**, most commonly in the third trimester. This detachment disrupts the oxygen and nutrient supply to the fetus and causes maternal bleeding, which may be visible or concealed.
+- **Placental abruption** (also called abruptio placentae) is a serious obstetric emergency characterized by **premature separation of the placenta from the uterine wall after 20 weeks of gestation**, most commonly in the third trimester.
 
+- This detachment disrupts the oxygen and nutrient supply to the fetus and causes maternal bleeding, which may be visible or concealed.
+
+## Sites of bleeding 
+![[Pasted image 20250728133039.png]]
 ## Pathophysiology
 
 - The placenta normally attaches firmly to the uterine lining, providing oxygen and nutrients to the fetus.
