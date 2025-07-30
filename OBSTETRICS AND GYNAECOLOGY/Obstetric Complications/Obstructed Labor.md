@@ -86,6 +86,17 @@
 |Prevention|Prenatal care, nutrition, early risk identification, timely referral|
 |Epidemiology|Common in low-resource settings; rare in well-equipped healthcare systems|
 
+
+Obstructed labour injury complex
+• A patient with obstetric fistula suffer from a range of injuries
+• Primary injuries include VVF,RVF,ureteric fistula,renal damage,vaginal
+stenosis,cervical injuries and stenosis,nerve damage(foot drop,saddle
+anaesthesia),bone damage,muscle and fascia damage.
+• Secondary injuries-depression,suicidal ideation,urine
+dermatitis,bladder stones,infertility
+• Care should be holistic-surgery,physiotherapy,psychosocial
+support,nursing care and reintegration
+
 **References:**  
 [1](https://continentalhospitals.com/diseases/obstructed-labor/) Continental Hospitals  
 [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9499287/) PMC.ncbi.nlm.nih.gov (2022)  
