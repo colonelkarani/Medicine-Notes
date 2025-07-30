@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Reverie",
   "textFontFamily": "Goudy Old Style,Bradley Hand,Forte,Big Caslon,Bodoni MT",
   "accentColor": "#60a333",
   "baseFontSize": 23,
   "showRibbon": false,
-  "theme": "moonstone"
+  "theme": "obsidian"
 }

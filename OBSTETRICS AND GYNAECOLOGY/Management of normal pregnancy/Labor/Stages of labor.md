@@ -2,13 +2,15 @@ The **four stages of labor** describe the process a woman goes through during ch
 
 ## 1. First Stage: Dilation of the Cervix
 
-- This stage begins with the onset of regular uterine contractions and ends when the cervix is fully dilated to about 10 centimeters.
+- Begins with the **onset of regular uterine contractions** and ends when the **cervix is fully dilated to about 10 centimeters**.
     
 - It is the longest stage and is divided into three phases:
     
-    - **Early (latent) phase:** Mild, irregular contractions; cervix dilates from 0 to about 3 cm. Can last up to 20 hours especially for first-time mothers. The mucus plug may be discharged ("show") and water breaking may occur. **prolonged latent phase>8hrs**
+    - **Early (latent) phase:** Mild, irregular contractions; cervix dilates from 0 to about 3 cm.The mucus plug may be discharged ("show") and water breaking may occur. 
+	    - **Prolonged latent phase>8hrs**
         
-    - **Active phase:** Stronger, more frequent contractions every 2–3 minutes; cervix dilates from about 3 to 8 cm. The baby’s head moves further down into the pelvis.**Prolonged active phase>12 hrs**
+    - **Active phase:** Stronger, more frequent contractions every 2–3 minutes; cervix dilates from about 3 to 8 cm. The baby’s head moves further down into the pelvis.
+	    - **Prolonged active phase>12 hrs**
         
     - **Transitional phase:** Intense contractions every 2–3 minutes, lasting about a minute; cervix dilates from 8 to 10 cm, which is fully dilated and ready for delivery. This phase is often the most difficult physically.
         

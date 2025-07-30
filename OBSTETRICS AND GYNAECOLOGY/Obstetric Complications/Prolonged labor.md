@@ -1,16 +1,12 @@
 
-Prolonged labour> 24 hrs
-Labour divided into 4 stages: 
-- Ist stage,
-- 2nd stage
-- 3rd stage 
-- 4th stage
-Ist stage:latent phase and active phase( cervical
-dilatation of 4cm or >).prolonged latent phase> 8
-hrs,
-Prolonged active phase>12 hrs
-Prolonged 2nd stage:primigravida >2
-hrs,multipara>lhr
+Labor lasting for more than 24hrs
+
+Stages of Labor are:
+1. 1st stage
+2. 2nd stage
+3. 3rd stage
+4. 4th stage
+
 [[Stages of labor]]
 
 #### Causes of prolonged labour
@@ -40,7 +36,7 @@ Management prolonged labour
 section,malpresentation e.g transverse lie-CS,
 - Malposition eg occipito posterior position-
 vaginal rotation or cs
-- Prolonged 2 nd stage assisted vaginal delivery if
+- Prolonged 2nd stage assisted vaginal delivery if
 no contraindications/augument/cs
 
 
@@ -81,15 +77,15 @@ Definition-failure of labour to progress(cervical dilatation and descent) despit
 ### Clinical presentation
 #### History
 
-|Factor|Effect on Pelvis/Birth Canal|Resulting Obstruction Cause|
-|---|---|---|
-|Young age|Immature pelvis, smaller size|Cephalopelvic disproportion due to small pelvis|
-|Short height|Smaller pelvic dimensions due to poor childhood nutrition|Pelvic insufficiency for fetal passage|
-|Disability|Pelvic deformity or limited maternal effort during labor|Mechanical obstruction or labor dystocia|
-|Rickets|Pelvic bone deformity from vitamin D deficiency|Contracted/narrow pelvis preventing fetal descent|
-|Pelvic injury|Misshaped or narrowed pelvic canal due to fractures/scars|Physical mechanical blockade in birth canal|
-|Obstetric history|Scarring or altered anatomy, primiparity with unknown pelvic size|Increased risk of mechanical obstruction|
-|Labor factors|Malpresentation or malposition of fetus|Difficulty passing through birth canal causing arrest|
+| Factor              | Effect on Pelvis/Birth Canal                                      | Resulting Obstruction Cause                           |
+| ------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
+| Young age of Mother | Immature pelvis, smaller size                                     | Cephalopelvic disproportion due to small pelvis       |
+| Short height        | Smaller pelvic dimensions due to poor childhood nutrition         | Pelvic insufficiency for fetal passage                |
+| Disability          | Pelvic deformity or limited maternal effort during labor          | Mechanical obstruction or labor dystocia              |
+| Rickets             | Pelvic bone deformity from vitamin D deficiency                   | Contracted/narrow pelvis preventing fetal descent     |
+| Pelvic injury       | Misshaped or narrowed pelvic canal due to fractures/scars         | Physical mechanical blockade in birth canal           |
+| Obstetric history   | Scarring or altered anatomy, primiparity with unknown pelvic size | Increased risk of mechanical obstruction              |
+| Labor factors       | Malpresentation or malposition of fetus                           | Difficulty passing through birth canal causing arrest |
 
 #### General Examination
 | Condition           | General Examination Signs                                                                           |
@@ -121,10 +117,8 @@ Definition-failure of labour to progress(cervical dilatation and descent) despit
 | **Urine concentrated, scanty, bloody, ketonuria** | Signs of maternal dehydration, infection, metabolic stress  |
 
 
-BANDLS RING
-- Also referred as pathological retraction ring
-- It's a late sign of obstructed labour
-- As contractions become more and more,the upper segment becomes thicker and thicker while the lower segment becomes thinner and weaker.
+###### BANDLS RING
+![3046w9lg.jpg (720×720)](https://images.squarespace-cdn.com/content/v1/5c76c60a65019f7d9e58c1ae/1586184232062-0CFHHLRGKN3JQRWSMTW4/3046w9lg.jpg)
 - The junction between the upper segment and lower segmented is seen as a depression around the umbilicus.THE BANDLS RING
 - May cause uterine rupture(multiparas) or contraction ceaseation in primigravidas(uterine exhaustion)
 
@@ -228,12 +222,11 @@ uterine rupture,metroplasty,D&C,
 
 Causes of uterine rupture before
 labour
-• placenta percreta,
+-  placenta percreta,
 invasive mole,choriocarcinoma,
 cornual pregnancy,
 abdominal trauma(accident,knive,bullet),
-•
-congenital abnormalities e.g pregnancy in
+- congenital abnormalities e.g pregnancy in
 undeveloped uterine horn,
 overdistension(multiple pregnancy,hydramnios)
 • NB:most cases are due to previous cs
@@ -296,8 +289,7 @@ complications
 
 prevention
 Avoid obstructed labour
-Proper estimation of fetal weight to avoid
-traumatic delivery
+Proper estimation of fetal weight to avoid traumatic delivery
 Proper use of oxytocics
 Proper closure of cs incision
 Proper selection of patients for vaginal birth after cesarian sectionVBAC
