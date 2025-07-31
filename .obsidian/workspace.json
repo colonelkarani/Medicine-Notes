@@ -55,16 +55,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uterine Fibroids.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uterine Fibroids"
+              "title": "Cesarean delivery"
+            }
+          },
+          {
+            "id": "07d899b6d80c0aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Answers"
+            }
+          },
+          {
+            "id": "5fa10a5babeb1378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obstetric History Taking"
+            }
+          },
+          {
+            "id": "c2282169017c300e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diabetes Mellitus in pregnancy"
+            }
+          },
+          {
+            "id": "376ac70f1b707c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hemolytic Disease of Fetus & Newborn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hemolytic Disease of Fetus & Newborn"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7489b76983ba0733",
@@ -213,49 +268,53 @@
       "random-note:Open random note": false
     }
   },
-  "active": "812a9983ca8593a8",
+  "active": "376ac70f1b707c86",
   "lastOpenFiles": [
-    "Pasted image 20250730173710.png",
+    "Hemolytic Disease of Fetus & Newborn.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Gravidity and Parity.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/DVT in pregnancy.md",
+    "Pasted image 20250731144431.png",
+    "Pasted image 20250731141724.png",
+    "Pasted image 20250731140240.png",
+    "Pasted image 20250731140140.png",
+    "Answers.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Female Infertility.md",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/ENgagement.md",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Labor.md",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Assisted Vaginal Deliveries.md",
+    "Pasted image 20250731111425.png",
+    "Pasted image 20250731111205.png",
+    "Pasted image 20250731104524.png",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Ceaserian Delivery.md",
+    "Ans.md",
+    "Study Plan.md",
+    "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology/Pasted image 20250730173710.png",
+    "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology/Uterine Fibroids.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Obstructed Labor.md",
-    "Uterine Fibroids.md",
-    "Obstetric History Taking.md",
     "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pre-term Rupture of Membranes.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Prolonged labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/1.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Obstetric Fistula.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pasted image 20250728133039.png",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pasted image 20250728110000.png",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pasted image 20250728105922.png",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Antepartum Hemorrhage.md",
-    "Ans.md",
-    "Multiple.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Tocolytics.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Malpresentations and Malpositions.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Uterus.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Pregnancy Diagnosis.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Antenatal Care.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Fistulas.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Urogenital Development and associated anomalies.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/embryonic intermediate mesoderm.md",
     "MICROBIOLOGY",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/ENgagement.md",
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Physiological changes in pregnancy.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Complications of pregnancy/Cervical Insufficiency.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Partograph.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Pelvis Diameters.png",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Pasted image 20250721144413.png",
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities",
     "PHARMACOLOGY/Respiratory Drugs",
-    "PHARMACOLOGY",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Pelvis Shapes.png"
+    "PHARMACOLOGY"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Reverie",
-  "textFontFamily": "Goudy Old Style,Bradley Hand,Forte,Big Caslon,Bodoni MT",
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "Bodoni MT,Goudy Old Style,Bradley Hand,Forte,Big Caslon",
   "accentColor": "#60a333",
   "baseFontSize": 23,
   "showRibbon": false,
