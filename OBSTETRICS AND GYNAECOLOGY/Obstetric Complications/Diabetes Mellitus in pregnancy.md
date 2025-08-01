@@ -116,6 +116,8 @@ Pregnancy is a diabetogenic effect because of
 - Cardiomyopathy
 - Hyperbilirubinemia
 - Polycythemia
+- Birth Trauma
+- Hypomagnesemia
 
 ### Treatment
 Multidisciplinary approach
@@ -128,13 +130,13 @@ Multidisciplinary approach
 	- Ketonemia
 - DVT prophylaxis, preeclampsia prevention, 
 - Fetal Ultrasound
-	- Dating scan
+	- Dating scan 8-12 wks
 	- Anomaly scan 18-20wks
 	- Growth scan monthly 28-36wks
 - Diet and exercise
 - Medications
 	- Metformin
-	- Insulin injections
+	- Insulin injections (Drug of Choice)
 	- Continous insulin infusion
 	- Glibenclamide
 - Follow up once or biweekly

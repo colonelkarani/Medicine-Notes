@@ -92,20 +92,6 @@
             }
           },
           {
-            "id": "c2282169017c300e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diabetes Mellitus in pregnancy"
-            }
-          },
-          {
             "id": "376ac70f1b707c86",
             "type": "leaf",
             "state": {
@@ -117,6 +103,20 @@
               },
               "icon": "lucide-file",
               "title": "Hemolytic Disease of Fetus & Newborn"
+            }
+          },
+          {
+            "id": "0f8b370083d18b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertensive disorders in pregnancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypertensive disorders in pregnancy"
             }
           }
         ],
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7489b76983ba0733",
@@ -268,13 +269,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "376ac70f1b707c86",
+  "active": "0f8b370083d18b6b",
   "lastOpenFiles": [
+    "Pasted image 20250801112903.png",
+    "Hypertensive disorders in pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
     "Hemolytic Disease of Fetus & Newborn.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Gravidity and Parity.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/DVT in pregnancy.md",
     "Pasted image 20250731144431.png",
     "Pasted image 20250731141724.png",
@@ -305,8 +308,6 @@
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Antepartum Hemorrhage.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Tocolytics.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Malpresentations and Malpositions.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Uterus.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications",
     "MICROBIOLOGY",
