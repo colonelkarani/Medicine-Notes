@@ -6,11 +6,13 @@
 	1. Name
 	2. Age 
 		- >35 or <18 High Risk Pregnancy (anomalies , abortions, medical disorders)
-	3. Education 
+	3. Marital Status 
+	4. Blood Groups of the patient and the patner
+	5. Education 
 		- Shows how she will respond to the information you give her
-	4. Occupation
+	6. Occupation
 		- Certain occupations have a higher risk
-	5. Address
+	7. Address
 
 2. Parity Index
 	1. Gravidity, Parity (**pregnancies crossed 28 weeks**) 
@@ -31,11 +33,13 @@
 			- How many weeks into pregnancy
 
 3. Chief Complaint 
-	- Put it in chronological order
+	- Put it in chronological order, duration + complaints in patienst own words
 
-4. History of presenting complains
-	- Describe the complaints in details
-	- Include negative history
+4. History of presenting complaints
+	- Describe the complaints in the systems in details(SOCRATES)
+	- Treatments offered
+	- Include positive or  negative history systems
+	- Complications
 5. History of present pregnancy
 	1. 1 st Trimester
 		- Was there any fertility treatment? 
@@ -138,5 +142,5 @@
 
 13. Diagnosis or differentials
 
-14. Examination with what you are looking for in mind
-
+14. Examination with what you are looking for in mind [[Obstetric Examination]]
+15. 

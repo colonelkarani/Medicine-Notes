@@ -92,31 +92,31 @@
             }
           },
           {
-            "id": "376ac70f1b707c86",
+            "id": "f5e76703b7099242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hemolytic Disease of Fetus & Newborn.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Placenta Abruptio"
+            }
+          },
+          {
+            "id": "deea6f4bda5d653d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hemolytic Disease of Fetus & Newborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Hemolytic Disease of Fetus & Newborn"
-            }
-          },
-          {
-            "id": "0f8b370083d18b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypertensive disorders in pregnancy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypertensive disorders in pregnancy"
             }
           }
         ],
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7489b76983ba0733",
@@ -269,45 +268,46 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0f8b370083d18b6b",
+  "active": "a04b86179b8b0798",
   "lastOpenFiles": [
-    "Pasted image 20250801112903.png",
-    "Hypertensive disorders in pregnancy.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Diabetes Mellitus in pregnancy.md",
-    "Hemolytic Disease of Fetus & Newborn.md",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Complications of pregnancy/Post term pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
+    "Common Symptoms in OBS GYN.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
+    "Obstetric Examination.md",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803100040.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803100349.png",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hemolytic Disease of Fetus & Newborn.md",
+    "OBSTETRICS AND GYNAECOLOGY/Images",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803095818.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803095331.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803095254.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803095043.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094935.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094833.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094520.png",
+    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094359.png",
+    "The Partogram.md",
+    "Hormonal Contraceptives.md",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hypertensive disorders in pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Diabetes Mellitus in pregnancy.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Gravidity and Parity.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/DVT in pregnancy.md",
-    "Pasted image 20250731144431.png",
-    "Pasted image 20250731141724.png",
-    "Pasted image 20250731140240.png",
-    "Pasted image 20250731140140.png",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/DVT in pregnancy.md",
     "Answers.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Female Infertility.md",
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/ENgagement.md",
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Assisted Vaginal Deliveries.md",
-    "Pasted image 20250731111425.png",
-    "Pasted image 20250731111205.png",
-    "Pasted image 20250731104524.png",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Ceaserian Delivery.md",
     "Ans.md",
     "Study Plan.md",
-    "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology/Pasted image 20250730173710.png",
     "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology/Uterine Fibroids.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Obstructed Labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pre-term Rupture of Membranes.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Prolonged labor.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/1.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Obstetric Fistula.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pasted image 20250728133039.png",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pasted image 20250728110000.png",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Antepartum Hemorrhage.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Tocolytics.md",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications",
     "MICROBIOLOGY",
@@ -315,7 +315,6 @@
     "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities",
-    "PHARMACOLOGY/Respiratory Drugs",
-    "PHARMACOLOGY"
+    "PHARMACOLOGY/Respiratory Drugs"
   ]
 }
