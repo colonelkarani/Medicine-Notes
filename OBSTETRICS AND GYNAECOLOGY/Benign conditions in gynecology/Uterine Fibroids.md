@@ -63,7 +63,7 @@ The fibroids into two main categories by location:
 ### Presentations
 - Asymptomatic
 	- Common in subserous and interstitial fibroids
-- Vaginal Bleeding **commonest symptom**
+- **Vaginal Bleeding** commonest symptom
 	- Menorrhagia due to
 		- hormonal imbalance and endometrial hyperplasia
 		- Sub-mucus - surface ulceration
@@ -103,72 +103,19 @@ The fibroids into two main categories by location:
 		- Diaphgram- dyspnea
 - Spntaneous Abortion
 
-## Examination and labs
-- Genereal examination
-	- Signs of chronic anaemia
-- Abdominal ecxamination
-	- Large Swelling
-- Pelvic Examination
-	- Symetric or asymetric enlarged uterus
-- Speculum Examination
-	- Pedunculated fibroid
-
-## Differentials
-### Symmetrically enlarged uterus
-- Pregnancy
-- Sub involution of the uterus
-- Carcinoma, Sarcoma
-- Submucosal, interstitial
-### Asymmetrically enlarged uterus
-- Subserous fibroid
-- Localised adenomyosis
-- Ligament swelling
-- Pregnany in rudimentary horn
-
-## Management
-- Conservative
-	- Small asymptomatic, in pregnancy or puerperium
-	- Every 6 months observation
-	- Check pathology
-- MEdical 
-	- preop til surgery
-	- Red degeneration with pregnancy
-	- Preop till surgery
-
-- Symptomatic
-	- correct anaemia,hemostatics, analsesics &antispasmodics
-- Anti- estrogens
-	- Large dose of progesterone
-	- Tamoxifen, Danazol
-	- LH, RH analogues - decrease size and vascualrity of the tumor
-- Surgery (myomectomy or hysterectomy)
-	- Indications
-		- Inferility
-		- Symptomatic or >12wks uterus
-		- Multiple huge fibroids
-	- Types of myomectomy
-		- Abdominal
-		- Vaginal
-		- Endoscopic
-		- Embolization techniques
-	- Precautions
-		- Time is post menstrual
-		- preop LH -RH analogues 
-		- Keep blood ready
-
 ### Secondary change in fibroids
 - Degenerative changes
 	- Hyaline degeneration
-		- Starts at the center of the fibroid
+		- Starts at the **center** of the fibroid
 		- Looks waxy ,soft 
 	- Fatty changes
-		- Starts at the periphery
+		- Starts at the **periphery**
 		- Yellow soft fibroid
 	- Calcification
 		- After fatty change when they undergo saponification (hard like a bone)
 	- Red degeneration
-		- Middle trimester of pregnancy
-		- Tumor enlarges with hemorrhage inside teh tumor
+		- Middle trimester of **pregnancy**
+		- Tumor enlarges with hemorrhage inside the tumor
 		- Necrobiosis (dead - central, living - peripheral)
 	- Atrophic changes
 		- Estrogen withdrawal
@@ -206,3 +153,57 @@ The fibroids into two main categories by location:
 		- Growth, post menopausal bleeding, more pain
 		- Signs suggestive
 			- Rapid growth, soft, tender,  fixed
+
+## Examination and labs
+- General examination
+	- Signs of chronic anaemia
+- Abdominal examination
+	- Large Swelling
+- Pelvic Examination
+	- Symetric or asymetric enlarged uterus
+- Speculum Examination
+	- Pedunculated fibroid
+
+## Differentials
+### Symmetrically enlarged uterus
+- Pregnancy
+- Sub involution of the uterus
+- Carcinoma, Sarcoma
+- Submucosal, interstitial
+### Asymmetrically enlarged uterus
+- Subserous fibroid
+- Localised adenomyosis
+- Ligament swelling
+- Pregnany in rudimentary horn
+
+## Management
+- Conservative
+	- Small asymptomatic, in pregnancy or puerperium
+	- Every 6 months observation
+	- Check pathology
+- Medical 
+	- pre-op til surgery
+	- Red degeneration with pregnancy
+	- Preop till surgery
+
+- Symptomatic
+	- correct anaemia,hemostatics, analsesics &antispasmodics
+- Anti- estrogens
+	- Large dose of progesterone
+	- Tamoxifen, Danazol
+	- LH, RH analogues - decrease size and vascualrity of the tumor
+- Surgery (myomectomy or hysterectomy)
+	- Indications
+		- Inferility
+		- Symptomatic or >12wks uterus
+		- Multiple huge fibroids
+	- Types of myomectomy
+		- Abdominal
+		- Vaginal
+		- Endoscopic
+		- Embolization techniques
+	- Precautions
+		- Time is post menstrual
+		- preop LH -RH analogues 
+		- Keep blood ready
+

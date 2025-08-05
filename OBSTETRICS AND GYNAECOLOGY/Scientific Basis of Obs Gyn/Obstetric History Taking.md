@@ -1,20 +1,22 @@
-
 # Basic format for obs history taking 
 
+Gain consent
+Restate what the patient said for clarification
 
-1. Biodata
+1. **Biodata**
 	1. Name
 	2. Age 
 		- >35 or <18 High Risk Pregnancy (anomalies , abortions, medical disorders)
-	3. Marital Status 
-	4. Blood Groups of the patient and the patner
-	5. Education 
+	3. Sex
+	4. Marital Status 
+	5. Blood Groups of the patient and the patner
+	6. Education 
 		- Shows how she will respond to the information you give her
-	6. Occupation
+	7. Occupation
 		- Certain occupations have a higher risk
-	7. Address
+	8. Address, Residence
 
-2. Parity Index
+2. **Parity Index**
 	1. Gravidity, Parity (**pregnancies crossed 28 weeks**) 
 		- GTPAL 
 			- Gravidity
@@ -22,6 +24,7 @@
 			- Preterm Births
 			- Abortions (fetal loss <20wks or <500gms) 
 			- Living children
+	
 	2. LMP , EDD, POG
 		1. LMP 
 			- First day of the last menstrual period
@@ -29,18 +32,24 @@
 			- Naegeles rule 
 				- - 3months + 7 days
 				- + 9 months +7days
+			- Ultrasound
 		3. POG (Period of Gestation)
-			- How many weeks into pregnancy
+			- How many weeks and days into pregnancy
 
-3. Chief Complaint 
+3. **Chief Complaint** 
 	- Put it in chronological order, duration + complaints in patienst own words
+	- If she's giving birth
+		- labor pains
+		- elective ??
 
-4. History of presenting complaints
+4. **History of presenting complaints**
+	- Patient was well until *duration* ago....
 	- Describe the complaints in the systems in details(SOCRATES)
-	- Treatments offered
-	- Include positive or  negative history systems
-	- Complications
-5. History of present pregnancy
+	- Complications of the symptoms
+	- Treatments offered and effects
+	- Include positive or  negative history systems, including risk factors
+
+5. **History of present pregnancy**
 	1. 1 st Trimester
 		- Was there any fertility treatment? 
 			- At rist of anovulation
@@ -48,7 +57,7 @@
 		- When was the first antenatal visit ?
 			- Folic acid and when was it started?
 		- How was pregancy diagnosed ?
-		- Does she have a dating scan ? 
+		- Does she have a dating scan 8-14wks ? 
 		- Does she have a 11-14 weeks scan(downs syndrome(absent nasal bone))?
 		- Was she told she has risk factors?
 		- Any history of bleeding, excessive vomiting, UTI ?
@@ -82,11 +91,17 @@
 		- Taking iron/ calcium supplements?
 		- Ultrasound for fetal growth(28 -32 wks)?
 		- Frequency of antenatal visits
+	4. Labor
+		- Prolonged labor?
+		- Babys weight
+		- Apgars score
+		- Difficulties in labor
 
-6. Past Obstetric History
+6. **Past Obstetric History**
 	1. If previous para :
 		- How long back was the pregnancy?
 		- Any antenatal risk factors?
+		- Any conditions during the pregnancy or delivery?
 		- POG at delivery
 			- If pre - term reason?
 		- Mode of delivery
@@ -102,17 +117,23 @@
 		- Intervention done
 		- Cause / reason
 		- Contraception if any
-7. Menstrual History
+7. **Past gynecological history**
+	- Menarche - age she first had menses
+	- Parity
 	- LMP
 	- Previous regular cycles
-	- Previous hormonal contraceptive
+	- Contraceptives
 	- Menorrhagia?
+	- Sexual History
+	- 
 
 8. Past Medical History
 	- Surgery
 	- Chronic Disease
+	- Drugs she's using
+	- 
 
-9. Family HIstory
+9. Family History
 	- Pre eclampsia in the mother
 	- Chronic diseases
 	- Genetic Diseases in the family
@@ -143,4 +164,15 @@
 13. Diagnosis or differentials
 
 14. Examination with what you are looking for in mind [[Obstetric Examination]]
-15. 
+
+
+#### Types of ultrasound scans
+
+| Ultrasound Scan                   | Typical Timing (Weeks)   | Purpose / What It Checks                                                    |
+| --------------------------------- | ------------------------ | --------------------------------------------------------------------------- |
+| **Dating Scan**                   | 8 to 12                  | Confirm pregnancy, estimate due date, check number of babies, viability     |
+| **Nuchal Translucency (NT) Scan** | 11 to 14                 | Screening for chromosomal abnormalities (e.g., Down syndrome), growth check |
+| **Anatomy (Morphology) Scan**     | 18 to 22                 | Check baby's physical development, organs, placenta position, sex reveal    |
+| **Growth Scan**                   | 28 to 32                 | Assess baby’s growth and size, amniotic fluid levels, fetal wellbeing       |
+| **Additional/Targeted Scans**     | As needed                | For complications or if abnormalities detected in routine scans             |
+| **3D/4D Ultrasound (Optional)**   | 24 to 34 (best at 27-32) | Detailed images                                                             |
