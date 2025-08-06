@@ -13,6 +13,7 @@ PPROM - Rupture of membranes before 37 weeks gestation
 - Cervical Insufficiency
 - Overdistention of the uterus
 - Genetic History
+- Smoking
 - Membranes abnormality
 - Iatrogenic
 - Malnutrition

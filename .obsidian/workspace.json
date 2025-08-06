@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dce993873df8ac9a",
+            "id": "dd22176ab38e2b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Complications of pregnancy/Post term pregnancy.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Prolonged labor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Post term pregnancy"
+              "title": "Prolonged labor"
             }
           },
           {
-            "id": "07d899b6d80c0aef",
+            "id": "d777fa7ae9023988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Answers.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Answers"
+              "title": "Stages of labor"
             }
           },
           {
-            "id": "5fa10a5babeb1378",
+            "id": "1beac0d63f695013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menstrual Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Menstrual Cycle"
+            }
+          },
+          {
+            "id": "92812a2bf2cad766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,63 +64,21 @@
             }
           },
           {
-            "id": "f5e76703b7099242",
+            "id": "49349d4d80036460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hypertensive disorders in pregnancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Placenta Abruptio"
-            }
-          },
-          {
-            "id": "deea6f4bda5d653d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hemolytic Disease of Fetus & Newborn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hemolytic Disease of Fetus & Newborn"
-            }
-          },
-          {
-            "id": "7c95ba57e08246c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obstetric History Taking"
-            }
-          },
-          {
-            "id": "f398efeb9806231f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rough.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rough"
+              "title": "Hypertensive disorders in pregnancy"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -180,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hirschprung's  Disease.md",
+                "file": "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hypertensive disorders in pregnancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hirschprung's  Disease"
+              "title": "Backlinks for Hypertensive disorders in pregnancy"
             }
           },
           {
@@ -241,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,23 +226,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7c95ba57e08246c8",
+  "active": "49349d4d80036460",
   "lastOpenFiles": [
-    "Early Pregnacy Bleeding.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
-    "Rough.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Complications of pregnancy/Post term pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Obstetric Fistula.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
+    "What I didnt ask in history today.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Gravidity and Parity.md",
+    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Assisted Vaginal Deliveries.md",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
+    "Management essentials.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Prolonged labor.md",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Pre-term Rupture of Membranes.md",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Venous Thrombo Embolism.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Anatomy and Physiology/Urogenital Development and associated anomalies.md",
+    "Abnormal Uterine bleeding.md",
+    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Obstetric History Taking.md",
+    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Complications of pregnancy/Post term pregnancy.md",
+    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hemolytic Disease of Fetus & Newborn.md",
+    "Gyn History.md",
+    "Menstrual Cycle.md",
+    "Pasted image 20250805231555.png",
+    "Pasted image 20250805230548.png",
+    "OBSTETRICS AND GYNAECOLOGY/Rounds/Obstetric Examination.md",
+    "Untitled.md",
+    "Rough.md",
+    "Early Pregnacy Bleeding.md",
     "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology/Uterine Fibroids.md",
     "Note.md",
-    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hemolytic Disease of Fetus & Newborn.md",
     "Study Plan.md",
     "OBSTETRICS AND GYNAECOLOGY/Rounds",
     "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Placenta Abnormalities/Placenta Abruptio.md",
     "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Common Symptoms in OBS GYN.md",
-    "OBSTETRICS AND GYNAECOLOGY/Rounds/Obstetric Examination.md",
     "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803100040.png",
     "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803100349.png",
     "OBSTETRICS AND GYNAECOLOGY/Images",
@@ -281,21 +267,6 @@
     "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803095043.png",
     "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094935.png",
     "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094833.png",
-    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094520.png",
-    "OBSTETRICS AND GYNAECOLOGY/Images/Pasted image 20250803094359.png",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/The Partogram.md",
-    "Hormonal Contraceptives.md",
-    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Hypertensive disorders in pregnancy.md",
-    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/Diabetes Mellitus in pregnancy.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Cesarean delivery.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Gravidity and Parity.md",
-    "OBSTETRICS AND GYNAECOLOGY/Medical Conditions in pregnancy/DVT in pregnancy.md",
-    "Answers.md",
-    "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn/Female Infertility.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/ENgagement.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Labor.md",
-    "OBSTETRICS AND GYNAECOLOGY/Management of normal pregnancy/Labor/Stages of labor.md",
-    "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications/Assisted Vaginal Deliveries.md",
     "OBSTETRICS AND GYNAECOLOGY/Benign conditions in gynecology",
     "OBSTETRICS AND GYNAECOLOGY/Scientific Basis of Obs Gyn",
     "OBSTETRICS AND GYNAECOLOGY/Obstetric Complications",

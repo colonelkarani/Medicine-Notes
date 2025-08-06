@@ -12,7 +12,7 @@ Virchow's triad -
 	- Reduced activity in pregnancy
 - Hypercoagulable state
 	- Increased procoagulant
-	- !![[Pasted image 20250731140240.png]]
+	![[Pasted image 20250731140240.png]]
 	- Increased fibrinolytic inhibitors PAI 1 & 2
 - Endothelial damage
 	- Increased in operative delivery and abdominal delivery

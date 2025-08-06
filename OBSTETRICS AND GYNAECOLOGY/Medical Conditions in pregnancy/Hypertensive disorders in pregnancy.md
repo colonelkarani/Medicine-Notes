@@ -1,9 +1,13 @@
 HTN  >140/90 or diastolic >90
 
+Preeclampsia new onset hypretension after 20 wks gestation, with proteinuria
+Classification
+- Mild preeclampsia  bp 140/90 proteinuria no severe features
+- Severe bp 160/110 , low platelets, liver transaminases
 #### Pathophysiology
 
 - Vasoconstriction
-- Vasospasm -> intravascular volume depletion(no diuretics)
+- Vasospasm -> intravascular volume depletion (no diuretics)
 - Spiral arteries fail to dilate maximally
 - Placental underperfusion -> release free radicals
 - Microangiopathy
@@ -38,7 +42,7 @@ HTN  >140/90 or diastolic >90
 - Mother 
 	- CBC -> anaemia, thrombocytopenia(H,EL,LP)
 	- Liver enzymes
-	- Urine for protein loss(severity)
+	- Urine for protein loss(severity),
 	- UEC
 	- Brain CT
 

@@ -4,7 +4,8 @@ Gain consent
 Restate what the patient said for clarification
 
 1. **Biodata**
-	1. Name
+	1. Name 
+		- Good to address the patient by name
 	2. Age 
 		- >35 or <18 High Risk Pregnancy (anomalies , abortions, medical disorders)
 	3. Sex
@@ -37,7 +38,7 @@ Restate what the patient said for clarification
 			- How many weeks and days into pregnancy
 
 3. **Chief Complaint** 
-	- Put it in chronological order, duration + complaints in patienst own words
+	- Put it in chronological order, duration + complaints in patients own words
 	- If she's giving birth
 		- labor pains
 		- elective ??
@@ -118,6 +119,7 @@ Restate what the patient said for clarification
 		- Cause / reason
 		- Contraception if any
 7. **Past gynecological history**
+	- [[Gyn History]]
 	- Menarche - age she first had menses
 	- Parity
 	- LMP
@@ -125,13 +127,12 @@ Restate what the patient said for clarification
 	- Contraceptives
 	- Menorrhagia?
 	- Sexual History
-	- 
+
 
 8. Past Medical History
 	- Surgery
 	- Chronic Disease
 	- Drugs she's using
-	- 
 
 9. Family History
 	- Pre eclampsia in the mother
@@ -154,6 +155,7 @@ Restate what the patient said for clarification
 	- Domestic Violence
 
 12. Summary
+	- Patient Identification
 	- Age 
 	- Parity
 	- Period of gestation
