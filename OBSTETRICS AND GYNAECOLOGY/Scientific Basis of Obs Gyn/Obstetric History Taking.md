@@ -7,7 +7,7 @@ Restate what the patient said for clarification
 	1. Name 
 		- Good to address the patient by name
 	2. Age 
-		- >35 or <18 High Risk Pregnancy (anomalies , abortions, medical disorders)
+		-  >35 or <18 High Risk Pregnancy (anomalies , abortions, medical disorders)
 	3. Sex
 	4. Marital Status 
 	5. Blood Groups of the patient and the patner
@@ -95,7 +95,7 @@ Restate what the patient said for clarification
 	4. Labor
 		- Prolonged labor?
 		- Babys weight
-		- Apgars score
+		- APGAR score
 		- Difficulties in labor
 
 6. **Past Obstetric History**

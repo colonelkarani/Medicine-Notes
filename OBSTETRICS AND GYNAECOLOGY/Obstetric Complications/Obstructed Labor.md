@@ -74,17 +74,17 @@
 
 ## Summary Table
 
-|Aspect|Details|
-|---|---|
-|Definition|Failure of vaginal delivery due to mechanical obstruction despite normal contractions|
-|Main causes|Cephalopelvic disproportion, malposition, narrow birth canal|
-|Risk factors|Adolescent mother, malnutrition, pelvic deformity, prior abruption, abnormal fetal size/position|
-|Clinical signs|Prolonged labor (>12 hrs), no cervical dilation, poor fetal descent, maternal exhaustion|
-|Complications|Uterine rupture, sepsis, obstetric fistula, fetal hypoxia, stillbirth|
-|Diagnosis|Clinical, partograph, vaginal exam, fetal monitoring|
-|Treatment|Emergency cesarean, assisted delivery, supportive care|
-|Prevention|Prenatal care, nutrition, early risk identification, timely referral|
-|Epidemiology|Common in low-resource settings; rare in well-equipped healthcare systems|
+| Aspect         | Details                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| Definition     | Failure of vaginal delivery due to mechanical obstruction despite normal contractions            |
+| Main causes    | Cephalopelvic disproportion, malposition, narrow birth canal                                     |
+| Risk factors   | Adolescent mother, malnutrition, pelvic deformity, prior abruption, abnormal fetal size/position |
+| Clinical signs | Prolonged labor (>12 hrs),  no cervical dilation, poor fetal descent, maternal exhaustion        |
+| Complications  | Uterine rupture, sepsis, obstetric fistula, fetal hypoxia, stillbirth                            |
+| Diagnosis      | Clinical, partograph, vaginal exam, fetal monitoring                                             |
+| Treatment      | Emergency cesarean, assisted delivery, supportive care                                           |
+| Prevention     | Prenatal care, nutrition, early risk identification, timely referral                             |
+| Epidemiology   | Common in low-resource settings; rare in well-equipped healthcare systems                        |
 
 
 Obstructed labour injury complex

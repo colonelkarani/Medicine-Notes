@@ -1,5 +1,5 @@
 **PROM** - Rupture of membranes before the onset of contractions after 37 weeks of gestation.
-PPROM - Rupture of membranes before 37 weeks gestation
+**PPROM** - Rupture of membranes before 37 weeks gestation
 
 #### Classifications of deliveries
 • Early term: 37 0/7 weeks through 38 6/7 weeks
